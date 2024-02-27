@@ -1,0 +1,14 @@
+数据说明：
+1.ID：员工编号
+2.satisfaction_level：员工满意度
+3.time_spend_company：工作年限
+4.average_montly_hours：平均每月工作时长
+5.last_evaluation：最新绩效考核
+6.work_accident：是否发生过工作差错
+7.number_project：参与项目数
+8.promotion_last_5years：5年内是否升职
+9.sector: 部门
+10.salary：薪资
+11.left：是否离职
+
+NULL：缺失值

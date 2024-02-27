@@ -1,0 +1,9 @@
+figure(1)
+title("satisfaction_level的概率分布曲线")
+p1=capaplot([Untitled(:,2)],[0,1]);
+figure(2)
+title("average_montly_hours的概率分布曲线")
+p2=capaplot([Untitled(:,4)],[100,400]);
+figure(3)
+title("last_evaluation的概率分布曲线")
+p3=capaplot([Untitled(:,5)],[0,1]);
